@@ -1,6 +1,6 @@
 <img align="right" src="https://raw.githubusercontent.com/gist/PedroLucasLopes/da8cdd9b5c044fefe1090c7a3445e0c8/raw/5d48a0004c49bfa032f0c764c3d84cfa423cafb6/GithubCard.svg">
 
-<h1 align="left">Hi there! <img width="35px" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif">, I'm Pedro Lucas</h1>
+<h1 align="left">Hi there! <img width="20px" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif">, I'm Pedro Lucas</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PedroLucasLopes&color=orange" alt="Profile views" /> </p>
 
 <ul>
