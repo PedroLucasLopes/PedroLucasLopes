@@ -4,10 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PedroLucasLopes&color=orange" alt="Profile views" /> </p>
 
 <ul>
-  <li>🔭 Working on Prodemge ...</li>
+  <li>🔭 Working on Johnson & Johnson ...</li>
   <li>🌱 I’m currently learning <img src="https://img.icons8.com/officel/16/000000/react.png"/> React and some other frameworks ...</li>
   <li>👯 You can find more of my work on <a href="https://www.linkedin.com/in/pedro-lucas-lopes-paraguai/">LinkedIn</a> ...</li>
-  <li>🤔 I’m looking for help with Object-oriented programming and database ...</li>
+  <li>🤔 I’m looking for help with NodeJS and database ...</li>
   <li>💬 Ask me about Front-end issues ...</li>
   <li>📫 Help me with tips about web development looking my GitHub projects ...</li>
   <li>⚡ Fun fact: I'm a non graduate architect in career transiction ...</li>
