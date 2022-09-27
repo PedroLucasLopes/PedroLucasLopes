@@ -29,7 +29,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Pycharm](https://img.shields.io/badge/-Pycharm-05122A?style=flat&logo=pycharm&logoColor=green)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse&logoColor=blue)&nbsp;
-![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=cypress&logoColor=black)&nbsp;
+![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=cypress&logoColor=white)&nbsp;
 
 <h2>⚙️ &nbsp;GitHub Analytics</h2>
 
