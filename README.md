@@ -5,7 +5,7 @@
 
 <ul>
   <li>🔭 Working on Pricemet ...</li>
-  <li>🌱 I’m currently learning <img src="https://icons8.com/icon/9ESZMOeUioJS/nestjs"/> Nest and <img src="https://img.icons8.com/officel/16/000000/react.png"/> React some other frameworks ...</li>
+  <li>🌱 I’m currently learning <img src="https://img.icons8.com/icon/9ESZMOeUioJS/nestjs"/> Nest and <img src="https://img.icons8.com/officel/16/000000/react.png"/> React some other frameworks ...</li>
   <li>👯 You can find more of my work on <a href="https://www.linkedin.com/in/pedro-lucas-lopes-paraguai/">LinkedIn</a> ...</li>
   <li>🤔 I’m looking for help with NodeJS and database ...</li>
   <li>💬 Ask me about Front-end issues ...</li>
