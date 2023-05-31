@@ -7,8 +7,8 @@
   <li>🔭 Working on Pricemet ...</li>
   <li>🌱 I’m currently learning Nest and React some other frameworks ...</li>
   <li>👯 You can find more of my work on <a href="https://www.linkedin.com/in/pedro-lucas-lopes-paraguai/">LinkedIn</a> ...</li>
-  <li>🤔 I’m looking for help with NodeJS and database ...</li>
-  <li>💬 Ask me about Front-end issues ...</li>
+  <li>🤔 I’m looking for help with cool architectures and database ...</li>
+  <li>💬 Ask me about Web Fullstack issues ...</li>
   <li>📫 Help me with tips about web development looking my GitHub projects ...</li>
   <li>⚡ Fun fact: I'm a non graduate architect in career transiction ...</li>
 </ul>
