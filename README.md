@@ -5,7 +5,7 @@
 
 <ul>
   <li>🔭 Working on Pricemet ...</li>
-  <li>🌱 I’m currently learning Nest and React some other frameworks ...</li>
+  <li>🌱 I’m currently learning Nest, React and SpringBoot some other frameworks ...</li>
   <li>👯 You can find more of my work on <a href="https://www.linkedin.com/in/pedro-lucas-lopes-paraguai/">LinkedIn</a> ...</li>
   <li>🤔 I’m looking for help with cool architectures and database ...</li>
   <li>💬 Ask me about Web Fullstack issues ...</li>
@@ -23,6 +23,7 @@
 ![TypeScript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
 ![NestJS](https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestjs)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=yellow)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=red)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
