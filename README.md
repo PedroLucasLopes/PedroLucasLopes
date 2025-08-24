@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PedroLucasLopes&color=orange" alt="Profile views" /> </p>
 
 <ul>
-  <li>🔭 Working on Pricemet ...</li>
+  <li>🔭 Working on Banco Mercantil ...</li>
   <li>🌱 I’m currently learning Nest, React and SpringBoot some other frameworks ...</li>
   <li>👯 You can find more of my work on <a href="https://www.linkedin.com/in/pedro-lucas-lopes-paraguai/">LinkedIn</a> ...</li>
   <li>🤔 I’m looking for help with cool architectures and database ...</li>
